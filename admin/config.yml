@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: changelogsite/changelog
+  repo: changelogsite/updates
 
 # This line should *not* be indented
 media_folder: "assets/uploads" # Media files will be stored in the repo under assets/uploads

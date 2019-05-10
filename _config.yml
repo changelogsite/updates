@@ -1,5 +1,5 @@
 # Title of your homepage
-title: ChangeLog of Brandname #(required)
+title: ChangeLog of Changelog #(required)
 
 # Website Description for search engines (optional)
 description: "Keep yourself up to date with our new product features"
@@ -22,7 +22,7 @@ baseurl: '' # optional
 
 
 # Github username/repo where your code is hosted.
-github: changelogsite/changelog # (required)
+github: changelogsite/updates # (required)
 
 # remove this line if don't want to show Github Star Badge
 star-badge: true  #(optional)
@@ -34,13 +34,13 @@ watch-badge: true #(optional)
 rss-feed-icon: true #(optional)
 
 # Global site tag (gtag.js) - Google Analytics e.g. UA-MYANALYTICS
-analytics:  #(recommended)
+analytics: UA-139607889-2 #(recommended)
 
 # https://changelog-site.disqus.com
-# disqus-identifier: changelog-site  # (optional)
+disqus-identifier: changelog-site  # (optional)
 
 # Allow users to comment via facebook
-fb-comment: true
+# fb-comment: true
 
 # Allow search engines to index your changelog website
 allow-searchengine: true #optional
